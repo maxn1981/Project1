@@ -1,0 +1,205 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Human Touch Massage Chairs - FREE SHIPPING - Massage Chairs, iJoy Massage Chairs, Foot Massagers, Recliners and Exercise Equipment</title>
+    <meta name="Keywords" content="Human Touch, Massage Chairs, HT Massage Chair, iJoy Massage Chairs, Foot Massagers, Back Massager, Handheld Massagers, Massage Pad, Perfect Chair, Recliner Chairs, Ottoman, HumanTouch, Human-Touch, Massage Chair, Effortless Exercise, Human Touch iJoy Board, iJoy Ride" />
+    <meta name="Description" content="Human Touch - The Best Massage Chairs, iJoy Massage Chair, Foot Massagers, Handheld Massagers, Perfect Chair Recliners and Exercise Equipment " />
+    <link href="StyleSheet.css" type="text/css" rel="Stylesheet" media="screen" />
+    <script type="text/javascript" src="Scripts/jquery-1.4.1.min.js"></script>
+    <script type="text/javascript" src="Scripts/SlideMenu.js"></script>
+</head>
+<body>
+    <div class="wrapper">
+       <h1> Project 1_1</h1>
+        <div class="page">
+        <?/* header start*/?>
+            <div class="header-container">
+                <div class="header">
+                    <a href="index.html"><img src="images/logo.gif" alt="Human Touch" /></a>
+                    <div class="header-right">
+                        <a class="header-ship-lnk" href="shipping-policy.html">FREE SHIPPING on all products.</a>
+                        <div id="header-chat"><img src="images/chat.jpg" alt="Chat Offline" /></div>
+                        <div class="header-phone">800.404.0975</div>
+                        <a href="#" class="header-cart">Shopping Cart</a>
+                        <form id="header-search" method="get" action="#"> 
+                            <fieldset> 
+                                <input type="text" id="header-search-input" value="keyword or item #" title="keyword or item #" name="query" /> 
+                                <input type="image" src="images/header-search-button.gif" id="header-search-submit" align="middle" />
+                            </fieldset> 
+                        </form>
+                    </div>
+                </div>
+                <div id="header-nav">
+                    <ul>
+                        <li><a href="#" title="Human Touch Massage Chairs"><span>HT<sup>&trade;</sup> Massage Chairs</span></a>
+                            <ul>
+                                <li>Elite Series</li>
+                                <li><a href="#" title="Human Touch AcuTouch&amp;reg; HT-7450 Zero Gravity  Massage chair">HT-7450</a></li>
+                                <li><a href="#" title="Human Touch AcuTouch&amp;reg; HT-7450 Zero Gravity  Massage chair">HT-7450</a></li>
+                                <li><a href="#" title="Human Touch AcuTouch&amp;reg; HT-7450 Zero Gravity  Massage chair">HT-7450</a></li>
+                                <li><a href="#" title="Human Touch AcuTouch&amp;reg; HT-7450 Zero Gravity  Massage chair">HT-7450</a></li>
+                                <li><a href="#" title="Human Touch AcuTouch&amp;reg; HT-7450 Zero Gravity  Massage chair">HT-7450</a></li>
+                                <li><a href="#" title="Human Touch AcuTouch&amp;reg; HT-7450 Zero Gravity  Massage chair">HT-7450</a></li>
+                                <li><a href="#" title="Human Touch AcuTouch&amp;reg; HT-7450 Zero Gravity  Massage chair">HT-7450</a></li>
+                                <li>Signature Series</li>
+                                <li><a href="#" title="Human Touch AcuTouch&amp;reg; HT-7450 Zero Gravity  Massage chair">HT-7450</a></li>
+                                <li><a href="#" title="Human Touch AcuTouch&amp;reg; HT-7450 Zero Gravity  Massage chair">HT-7450</a></li>
+                                <li><a href="#" title="Human Touch AcuTouch&amp;reg; HT-7450 Zero Gravity  Massage chair">HT-7450</a></li>
+                                <li><a href="#" title="Human Touch AcuTouch&amp;reg; HT-7450 Zero Gravity  Massage chair">HT-7450</a></li>
+                                <li><a href="#" title="Human Touch AcuTouch&amp;reg; HT-7450 Zero Gravity  Massage chair">HT-7450</a></li>
+                                <li><a href="#" title="Human Touch AcuTouch&amp;reg; HT-7450 Zero Gravity  Massage chair">HT-7450</a></li>
+                                <li><a href="#" title="Human Touch AcuTouch&amp;reg; HT-7450 Zero Gravity  Massage chair">HT-7450</a></li>
+                                <li class="special-link"><a href="#" title="Human Touch AcuTouch&amp;reg; HT-7450 Zero Gravity  Massage chair">Online Exclusives</a></li>
+                                <li><a href="#" title="Human Touch AcuTouch&amp;reg; HT-7450 Zero Gravity  Massage chair">HT-7450</a></li>
+                                <li class="special-link"><a href="#" title="Human Touch AcuTouch&amp;reg; HT-7450 Zero Gravity  Massage chair">Online Exclusives</a></li>
+                                <li><a href="#" title="Human Touch AcuTouch&amp;reg; HT-7450 Zero Gravity  Massage chair">HT-7450</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#" title="iJoy Casual Massage Chairs"><span>iJoy<sup>&reg;</sup> Massage Chairs</span></a>
+                            <ul>
+                                <li><a href="#" title="Human Touch iJoy-2310 Robotic Massage Chair">iJoy-2310</a></li>
+                                <li><a href="#" title="Human Touch iJoy-2310 Robotic Massage Chair">iJoy-2310</a></li>
+                                <li><a href="#" title="Human Touch iJoy-2310 Robotic Massage Chair">iJoy-2310</a></li>
+                                <li><a href="#" title="Human Touch iJoy-2310 Robotic Massage Chair">iJoy-2310</a></li>
+                                <li><a href="#" title="Human Touch iJoy-2310 Robotic Massage Chair">iJoy-2310</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#" title="Perfect Chair Zero-Gravity Recliners"><span>Perfect Chair<sup>&reg;</sup> Recliners</span></a>
+                            <ul>
+                                <li><a href="#" title="Human Touch Perfect Chair PC-075 Zero-Gravity Recliner Chair">PC-075</a></li>
+                                <li><a href="#" title="Human Touch Perfect Chair PC-075 Zero-Gravity Recliner Chair">PC-075</a></li>
+                                <li><a href="#" title="Human Touch Perfect Chair PC-075 Zero-Gravity Recliner Chair">PC-075</a></li>
+                                <li><a href="#" title="Human Touch Perfect Chair PC-075 Zero-Gravity Recliner Chair">PC-075</a></li>
+                                <li><a href="#" title="Human Touch Perfect Chair PC-075 Zero-Gravity Recliner Chair">PC-075</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#" title="Targeted Relief Personal Wellness"><span>Targeted Relief</span></a>
+                            <ul>
+                                <li><a href="#" title="Human Touch HT-1360 CirQlation&amp;reg; Elite Foot and Calf Massager">HT-1360</a></li>
+                                <li><a href="#" title="Human Touch HT-1360 CirQlation&amp;reg; Elite Foot and Calf Massager">HT-1360</a></li>
+                                <li><a href="#" title="Human Touch HT-1360 CirQlation&amp;reg; Elite Foot and Calf Massager">HT-1360</a></li>
+                                <li><a href="#" title="Human Touch HT-1360 CirQlation&amp;reg; Elite Foot and Calf Massager">HT-1360</a></li>
+                                <li><a href="#" title="Human Touch HT-1360 CirQlation&amp;reg; Elite Foot and Calf Massager">HT-1360</a></li>
+                                <li><a href="#" title="Human Touch HT-1360 CirQlation&amp;reg; Elite Foot and Calf Massager">HT-1360</a></li>
+                                <li><a href="#" title="Human Touch HT-1360 CirQlation&amp;reg; Elite Foot and Calf Massager">HT-1360</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#" title="E³ Effortless Exercise"><span style="border:none;">Effortless Exercise</span></a>
+                            <ul>
+                                <li><a href="#" title="iJoy Twist">iJoy Twist</a></li>
+                                <li><a href="#" title="iJoy Twist">iJoy Twist</a></li>
+                                <li><a href="#" title="iJoy Twist">iJoy Twist</a></li>
+                                <li><a href="#" title="iJoy Twist">iJoy Twist</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+			<?/* header end*/?>
+            <div class="main-container">
+                <div class="main">
+                    <div class="home-bml-banner"><a href="https://www.securecheckout.billmelater.com/paycapture-content/fetch?hash=E2831652&content=/bmlweb/coreiw.html"><img src="images/bml-banner1-1.jpg" alt="" /></a></div>
+                    <div class="home-banners">
+                        <img src="banners/pano-61.jpg" alt="" />
+                    </div>
+                    <div class="home-boxes">
+                        <img src="images/bottom-box-item-8.jpg" alt="" class="float-left NoBorder" usemap="#fb-twitter-map" />
+                        <map name="fb-twitter-map" id="fb-twitter-map"><area shape="rect" coords="43,38,96,91" href="http://www.facebook.com/HTFeelBetter" target="_blank" alt="Facebook"/><area shape="rect" coords="99,39,157,92" href="http://twitter.com/htfeelbetter" target="_blank" alt="Twitter"/></map>
+                        <a href="wellness-news.html"><img src="images/bottom-box-item-2.jpg" alt="" width="185" height="100" /><span><span><strong>Healthy Tips:</strong>Learn the benefits of massage through our wellness council, blogs</span></span></a>
+                        <a href="ht-gift-guide.html"><img src="images/bottom-box-item-3.jpg" alt="" width="185" height="100" /><span><span><strong>Current Promotions <br />&amp; Gift Guide</strong>Discover unique<br />gifts for anyone<br />and for any<br />occasion</span></span></a>
+                        <a href="http://chairselector.humantouch.com/"><img src="images/bottom-box-item-7.jpg" alt="" width="185" height="100" /><span><span style="text-align:right"><strong>Choose Your Chair:</strong>Find the right chair<br/>for you</span></span></a>
+                        <a href="purchase-massage-chairs.html"><img src="images/bottom-box-item-5.jpg" alt="" width="185" height="100" /><span><span><strong>Where to Buy</strong>Find the store<br />nearest you and<br />get a free 15 min<br />massage</span></span></a>
+                    </div>
+                    <div class="home-bottom-panel">
+                        <h1>Human Touch Massage Chairs, Perfect Chairs, and wellness products</h1>
+                        Human Touch is the leading provider of high-quality, innovative lifestyle products, massage chairs, and experiences that deliver indispensable, life-changing benefits to an ever-growing number of consumers. We have been making people feel better for over 30 years by developing state-of-the-art massage products containing patented massage systems that replicate techniques used by massage professionals, thereby helping to reduce muscle tension and pain caused by today's hectic lifestyle. Human Touch produces a variety of massage and wellness products from award-winning massage chairs to handheld massagers, foot and calf massagers, and relaxation furniture.
+                    </div>
+                </div>
+            </div>
+            <?/* footer Start*/?>
+            <div class="footer-container">
+                <div class="footer">
+                    <div id="footer-links">
+                        <ul id="footer-links-header">
+                            <li><span class="navi-bar-last">Need Assistance?</span>
+                                <ul>
+                                    <li>Customer Service 800-355-2762</li>
+                                    <li><a href="contactus.html">Contact Us</a></li>
+                                    <li><a href="ht-products-usermanual.html">Manuals</a></li>
+                                    <li><a href="shipping-policy.html">Shipping Policy</a></li>
+                                    <li><a href="return-policy.html">Return Policies</a></li>
+                                    <li><a href="technical-support.html">Technical Support</a></li>
+                                    <li><a href="ht-massage-chair-troubleshooting-tech-guides.html">Troubleshooting Guide</a></li>
+                                    <li><a href="consumer-warranties.html">Warranties</a></li>
+                                    <li><a href="liability-statements.html">Liabilities</a></li>
+                                    <li><a href="http://www.interhealth.com/crm%20portal/reg-01.asp">Product Warranty Registration</a></li>
+                                    <li><a href="ht-charities.html">Charitable Affiliations</a></li>
+                                </ul>
+                            </li>
+                            <li><span>SHOP</span><div class="clear-float"></div>
+                                <ul class="footer-link-shop navi-bar-last">
+                                    <li><a href="ht-massage-chairs.html">Elite Massage Chairs</a></li>
+                                    <li><a href="ht-massage-chairs.html">Signature Massage Chairs</a></li>
+                                    <li><a href="perfect-chairs.html">Perfect Chair Zero-Gravity Recliners</a></li>
+                                    <li><a href="effortless-exercise.html">iJoy Effortless Exercise</a></li>
+                                    <li><a href="other-massage-products.html">Targeted Relief Products</a></li>
+                                    <li><a href="other-massage-products.html">Foot-and-Calf Massagers</a></li>
+                                    <li><a href="bodyspa.html">BodySpa</a></li>
+                                    <li><a href="online-exclusives.html">Factory-Renewed</a></li>                
+                                </ul>
+                                <ul class="footer-link-shop footer-link-right">
+                                    <li><a href="http://www.humantouchpromo.com/" target="_blank">Current Promotions</a></li>
+                                    <li><a href="ht-5year-protection-assurance-plan.html">Premium Protection Plan</a></li>
+                                    <li><a href="consumer-warranties.html">Warranties</a></li>
+                                    <li><a href="ht-gift-guide.html">Gift Guide</a></li>
+                                    <li><a href="purchase-massage-chairs.html">Store Locator</a></li>
+                                    <li><a href="http://roadshows.humantouch.com/costco">Roadshows</a></li>
+                                    <li><a href="international.html">International</a></li>
+                                    <li><a href="contactus.html">Business Sales</a></li>
+                                    <li><a href="http://hospitality.humantouch.com/">Hospitality Sales</a></li>
+                                    <li><a href="http://worklife.humantouch.com/">Workplace Sales</a></li>
+                                </ul>
+                            </li>
+                            <li><span>About Us</span>
+                                <ul>
+                                    <li><a href="company.html">About Human Touch</a></li>
+                                    <li><a href="wellness-council.html">Wellness Council</a></li>
+                                    <li><a href="http://blog.humantouch.com/category/press-release">Press Release</a></li> 
+                                    <li><a href="http://blog.humantouch.com">Blog</a></li>
+                                    <li><a href="careers.html">Careers</a></li>
+                                    <li><a href="privacypolicy.html">Privacy Policy</a></li>
+                                    <li><a href="copyright.html">Copyright Notice and Disclaimer</a></li>
+                                </ul>
+                            </li>
+                            <li class="navi-bar-last"><span>Keep Me Informed</span>
+                                <ul class="navi-bar-last">
+                                    <li>Receive emails about special offers, promotions, exclusive product information and news</li>
+		                            <li>
+			                            <form id="footer-subscribe" method="post" action="#">
+				                            <fieldset>
+				                                <input type="text" id="footer-subscribe-input" value="" title="" name="footer-subscribe-input" />
+                                                <input type="image" src="images/footer-subscribe-button.gif" id="footer-subscribe-submit" />
+				                            </fieldset>
+			                            </form>
+		                            </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    <div id="footer-copyright">
+	                    <span>&copy;2011 Human Touch</span> 
+                    	<a class="addthis_button" id="footer-addthis" href="#"><img src="images/footer-addthis.gif" alt="Bookmark and Share" /></a>
+                        <script type="text/javascript" src="http://s7.addthis.com/js/15/addthis_widget.js"></script>
+	                    <span id="footer-icons">
+	                        <a href="https://www.mcafeesecure.com/RatingVerify?ref=www.humantouch.com"><img width="115" height="32" src="images/12.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" /></a> 
+	                        <a href="https://www.bbb.org/online/consumer/cks.aspx?ID=1080314152316"><img src="images/BBB-ReliabilitySeal4.gif" alt="Better Business Bureau" /></a>
+	                    </span>
+                    </div>
+                </div>
+            </div>
+            <?/* footer end*/?>
+        </div>
+    </div>
+</body>
+</html>
